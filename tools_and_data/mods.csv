@@ -1,0 +1,118 @@
+noteName,projectID,fileID,required,env
+jei,238222,2665456,ture,client
+Hwyla,253449,2568751,ture,client
+BetterFps,229876,2483393,ture,client
+JourneyMap,32274,2640111,ture,client
+Neat,238372,2595310,ture,client
+Wawla,224712,2666930,ture,client
+Inventory Tweaks,223094,2482481,ture,client
+CraftTweaker,239197,2662864,ture,all
+Custom NPCs,221826,2666900,ture,all
+foamfix,278494,2638380,ture,all
+modtweaker,220954,2666266,ture,all
+MTLib,253211,2567171,ture,all
+YUNoMakeGoodMap,252104,2540882,ture,all
+EnderIO,64578,2666521,ture,all
+FTBQuests,289412,2674720,ture,all
+EnderCore,231868,2664060,ture,all
+Item Filters,309674,2666224,ture,all
+FTB Library,237167,2670449,ture,all
+Good Ol' Currency,254346,2630516,ture,all
+Ex Nihilo: Creatio,274456,2674718,ture,all
+Thermal Foundation,222880,2669258,ture,all
+Tinkers Construct,74072,2662253,ture,all
+Storage Drawers,223852,2642386,ture,all
+OpenBlocks,228816,2620052,ture,all
+Botania,225643,2668710,ture,all
+Applied Energistics 2,223794,2652453,ture,all
+Refined Storage,243076,2642249,ture,all
+Chickens,241941,2537643,ture,all
+Hatchery,251138,2665966,ture,all
+Thermal Foundation,222880,2669258,ture,all
+Actually Additions,228404,2669943,ture,all
+RFTools,224641,2672513,ture,all
+RFTools Control,250763,2660164,ture,all
+Roost,277711,2635449,ture,all
+Environmental Tech,245453,2654968,ture,all
+EnderStorage,245174,2594243,ture,all
+Loot Bags,225946,2581863,ture,all
+Dark Utilities,242195,2664235,ture,all
+Flux Networks,248020,2645165,ture,all
+Akashic Tome,250577,2648656,ture,all
+autoreglib,250363,2652766,ture,all
+baubles,227083,2518667,ture,all
+bookshelf,228525,2666922,ture,all
+codechickenlib,242818,2618630,ture,all
+valkyrielib,245480,2654963,ture,all
+forgelin,248453,2640952,ture,all
+sonarcore,239418,2645156,ture,all
+openmodslib,228815,2623007,ture,all
+mcjtylib_ng,233105,2660396,ture,all
+chameleon,230497,2450900,ture,all
+mantle,74924,2671124,ture,all
+cofhworld,271384,2623091,ture,all
+cofhcore,69162,2669253,ture,all
+redstoneflux,270789,2623090,ture,all
+Ex Compressum,241967,2620499,ture,all
+mob_grinding_utils,254241,2656683,ture,all
+Mystical Agriculture,246640,2659248,ture,all
+Extra Utilities 2,225561,2632255,ture,all
+Cucumber Library,272335,2645867,ture,all
+Twerk Sim 2K16,251301,2659489,ture,all
+Ore Excavation,250898,2673699,ture,all
+Tiny Progressions,250850,2666258,ture,all
+Mystical Agradditions,256247,2671242,ture,all
+QuantumFlux,228609,2663881,ture,all
+bdlib,70496,2518031,ture,all
+More Chickens,251786,2521137,ture,all
+Tinkers' Tool Leveling,250957,2630860,true,all
+Cooking for Blockheads,231484,2659430,true,all
+LunatriusCore,225605,2489549,true,client
+industrial foregoing,266515,2668016,true,all
+Iron Backpacks,227049,2564573,true,all
+Iron Chests,228756,2670493,true,all
+Missing_pieces,236199,2490951,true,all
+Pam`s HarvestCraft,221857,2650315,true,all
+LootTweaker,255257,2618964,true,all
+Cooking for Blockheads,231484,2659430,true,all
+Gravestone Mod,238551,2524880,true,all
+Bonsai Trees,278993,2654304,true,all
+ServerLevelType,310493,2656273,true,client
+FastLeafDecay,230976,2463272,true,all
+Bad Wither No Cookie - Reloaded,261251,2638317,true,client
+Clumps,256717,2666198,true,all
+KleeSlabs,241895,2611981,true,all
+Controlling,250398,2522248,true,client
+unidict,244258,2652588,true,client
+VanillaFix,292785,2639533,true,all
+AppleSkin,248787,2496585,true,all
+teslacrelib,254602,2580052,true,all
+wanionlib,253043,2651482,true,all
+/dank/null,272514,2659000,true,all
+p455w0rds-library,255232,2651697,true,all
+Cyclic,239286,2668442,true,all
+Better Builder`s Wands,238403,2668846,true,all
+Redstone Paste,67508,2477676,true,all
+AttributeFix,280510,2643711,true,all
+Mouse Tweaks,60089,2671937,true,all
+Void Island Control,257655,2666967,true,all
+Draconic Evolution,223565,2674353,true,all
+Not Enough Items,247694,2626087,true,all
+Brandon's Core,231382,2649656,true,all
+extreme-reactors,250277,2670576,true,all
+zerocore,247921,2670570,true,all
+Waila Harvestability,79287,2481605,true,all
+Chicken Chunks 1.8.+,243883,2594241,true,all
+Solar Flux Reborn,246974,2659598,true,all
+No Recipe Book,284904,2568865,true,all
+Water Strainer,246939,2460195,true,all
+Just Enough Reactors,292952,2671784,true,all
+Clipboard,252676,2441510,true,all
+Chest Transporter,78778,2524058,true,all
+Chisel,235279,2619468,true,all
+Decocraft2,79616,2621015,true,all
+Flat Colored Blocks,238590,2483466,true,all
+ConnectedTexturesMod,267602,2642375,true,all
+ShadowMC,226780,2441500,true,all
+PTRLib,291499,2685154,true,all
+essentials,31129,780922,true,server
