@@ -5,7 +5,7 @@ data="""
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "Xinmu`s Empty island",
-    "version": "a0.8",
+    "version": "pre-0.1",
     "author": "Xinmu",
     "overrides": "overrides",
     "minecraft": {"modLoaders":[{"id":"forge-14.23.5.2811","primary":true}],"version":"1.12.2"}

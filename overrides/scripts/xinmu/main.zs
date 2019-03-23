@@ -66,5 +66,11 @@ mods.jei.JEI.removeAndHide(<enderstorage:ender_storage>.withTag({Frequency: {mid
 
 //增加粘土块互转的配方
 recipes.addShaped(<minecraft:clay>, [[<minecraft:clay_ball>,<minecraft:clay_ball>],[<minecraft:clay_ball>, <minecraft:clay_ball>]]);
+recipes.addShapeless(<minecraft:clay_ball>*4, [<minecraft:clay>]);
+
+//简化 AE2的处理器 合成
+mods.enderio.AlloySmelter.addRecipe(<appliedenergistics2:material:24>, [<appliedenergistics2:material:17>,<minecraft:redstone>,<appliedenergistics2:material:20>], 200, 5);
+mods.enderio.AlloySmelter.addRecipe(<appliedenergistics2:material:23>, [<appliedenergistics2:material:16>,<minecraft:redstone>,<appliedenergistics2:material:20>], 200, 5);
+mods.enderio.AlloySmelter.addRecipe(<appliedenergistics2:material:22>, [<appliedenergistics2:material:18>,<minecraft:redstone>,<appliedenergistics2:material:20>], 200, 5);
 
 print("xinmu.zs script is ok.");

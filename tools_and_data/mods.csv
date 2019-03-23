@@ -28,7 +28,6 @@ Applied Energistics 2,223794,2652453,ture,all
 Refined Storage,243076,2642249,ture,all
 Chickens,241941,2537643,ture,all
 Hatchery,251138,2665966,ture,all
-Thermal Foundation,222880,2669258,ture,all
 Actually Additions,228404,2669943,ture,all
 RFTools,224641,2672513,ture,all
 RFTools Control,250763,2660164,ture,all
@@ -74,7 +73,6 @@ Iron Chests,228756,2670493,true,all
 Missing_pieces,236199,2490951,true,all
 Pam`s HarvestCraft,221857,2650315,true,all
 LootTweaker,255257,2618964,true,all
-Cooking for Blockheads,231484,2659430,true,all
 Gravestone Mod,238551,2524880,true,all
 Bonsai Trees,278993,2654304,true,all
 ServerLevelType,310493,2656273,true,client
@@ -95,9 +93,7 @@ Better Builder`s Wands,238403,2668846,true,all
 Redstone Paste,67508,2477676,true,all
 AttributeFix,280510,2643711,true,all
 Mouse Tweaks,60089,2671937,true,all
-Void Island Control,257655,2666967,true,all
 Draconic Evolution,223565,2674353,true,all
-Not Enough Items,247694,2626087,true,all
 Brandon's Core,231382,2649656,true,all
 extreme-reactors,250277,2670576,true,all
 zerocore,247921,2670570,true,all
@@ -116,3 +112,9 @@ ConnectedTexturesMod,267602,2642375,true,all
 ShadowMC,226780,2441500,true,all
 PTRLib,291499,2685154,true,all
 essentials,31129,780922,true,server
+extrabotany,299086,2679428,true,all
+Ender Tweaker,312195,2688592,true,all
+Just Enough Energistics,310812,2663371,true,all
+Thermal Dynamics,227443,2669256,true,all
+Lightning Tweaks,306938,2670084,true,client
+Crafting Tweaks,233071,2562139,true,client
